@@ -9,6 +9,7 @@ class Node{
 	}
 }
 public class Linkedlist{
+	
 	public static Node pushFront(Node head ,int value){
 	//申请新节点
 	Node newNode = new Node (value);
